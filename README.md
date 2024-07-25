@@ -16,13 +16,13 @@
   <tbody>
     <tr>
       <td style="background-color: lightgrey; font-size: 12px;">ExpressVPN</td>
-      <td style="font-size: 12px;">翻墙非常稳定</td>
-      <td style="font-size: 12px;">非常安全</td>
-      <td style="font-size: 12px;">105个国家3000台</td>
-      <td style="font-size: 12px;">非常快，业内第一</td>
-      <td style="font-size: 12px;">1年套餐：6.67美金/月</td>
-      <td style="font-size: 12px;">免费赠送3个月，30天退款保证</td>
-      <td style="font-size: 12px; color: red;">9.9/10</td>
+      <td style="font-size: 10px;">翻墙非常稳定</td>
+      <td style="font-size: 10px;">非常安全</td>
+      <td style="font-size: 10px;">105个国家3000台</td>
+      <td style="font-size: 10px;">非常快，业内第一</td>
+      <td style="font-size: 10px;">1年套餐：6.67美金/月</td>
+      <td style="font-size: 10px;">免费赠送3个月，30天退款保证</td>
+      <td style="font-size: 10px; color: red;">9.9/10</td>
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 12px;">PureVPN</td>
