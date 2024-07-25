@@ -18,7 +18,7 @@
       <td style="font-size: 14px;">翻墙非常稳定，速度也非常快</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">105个国家3000台</td>
-      <td style="font-size: 14px;">1年套餐：6.67美金/月</td>
+      <td style="font-size: 14px;">1年套餐：$6.67/月</td>
       <td style="font-size: 14px;">免费赠送3个月，30天退款保证</td>
       <td style="font-size: 14px; color: red;">9.9/10</td>
     </tr>
@@ -27,7 +27,7 @@
       <td style="font-size: 14px;">翻墙比较稳定，速度比较快</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">70个国家6500台</td>
-      <td style="font-size: 14px;">2年套餐：2.11美金/月</td>
+      <td style="font-size: 14px;">2年套餐：$2.11/月</td>
       <td style="font-size: 14px;">提供独立IP地址</td>
       <td style="font-size: 14px; color: red;">9.5/10</td>
     </tr>
@@ -36,7 +36,7 @@
       <td style="font-size: 14px;">翻墙比较稳定，速度可满足基本需求</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">65个国家3200台</td>
-      <td style="font-size: 14px;">2年套餐：2.49美金/月</td>
+      <td style="font-size: 14px;">2年套餐：$2.49/月</td>
       <td style="font-size: 14px;">不限制设备数，性价比高</td>
       <td style="font-size: 14px; color: red;">9.0/10</td>
     </tr>
@@ -45,7 +45,7 @@
       <td style="font-size: 14px;">需手动配置，速度可满足基本需求</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">59个国家5400台</td>
-      <td style="font-size: 14px;">2年套餐：3.71美金/月</td>
+      <td style="font-size: 14px;">2年套餐：$3.71/月</td>
       <td style="font-size: 14px;">功能强大，适合老司机</td>
       <td style="font-size: 14px; color: red;">8.0/10</td>
     </tr>
