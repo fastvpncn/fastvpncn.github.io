@@ -3,7 +3,7 @@
 <table>
   <thead>
     <tr>
-      <th style="background-color: lightgrey; font-size: 16px;">中国VPN推荐</th>
+      <th style="background-color: lightgrey; font-size: 16px;">VPN推荐</th>
       <th style="background-color: lightgrey; font-size: 16px;">翻墙稳定性</th>
       <th style="background-color: lightgrey; font-size: 16px;">安全性</th>
       <th style="background-color: lightgrey; font-size: 16px;">服务器数量</th>
