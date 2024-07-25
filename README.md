@@ -15,16 +15,16 @@
   <tbody>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">ExpressVPN</td>
-      <td style="font-size: 14px;">翻墙非常稳定，速度也非常快</td>
+      <td style="font-size: 14px;">非常稳定</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">105个国家3000台</td>
       <td style="font-size: 14px;">1年套餐：$6.67/月</td>
-      <td style="font-size: 14px;">免费赠送3个月，30天退款保证</td>
+      <td style="font-size: 14px;">速度非常快，免费赠送3个月，30天退款保证</td>
       <td style="font-size: 14px; color: red;">9.9/10</td>
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">PureVPN</td>
-      <td style="font-size: 14px;">翻墙比较稳定，速度比较快</td>
+      <td style="font-size: 14px;">稳定</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">70个国家6500台</td>
       <td style="font-size: 14px;">2年套餐：$2.11/月</td>
@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">Surfshark</td>
-      <td style="font-size: 14px;">翻墙比较稳定，速度可满足基本需求</td>
+      <td style="font-size: 14px;">稳定</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">65个国家3200台</td>
       <td style="font-size: 14px;">2年套餐：$2.49/月</td>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">NordVPN</td>
-      <td style="font-size: 14px;">需手动配置，速度可满足基本需求</td>
+      <td style="font-size: 14px;">需手动配置</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">59个国家5400台</td>
       <td style="font-size: 14px;">2年套餐：$3.71/月</td>
