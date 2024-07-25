@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">Surfshark</td>
-      <td style="font-size: 14px;">翻墙比较稳定，速度中等</td>
+      <td style="font-size: 14px;">翻墙比较稳定，速度可满足基本需求</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">65个国家3200台</td>
       <td style="font-size: 14px;">2年套餐：2.49美金/月</td>
@@ -42,7 +42,7 @@
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;">NordVPN</td>
-      <td style="font-size: 14px;">需手动配置，速度中等</td>
+      <td style="font-size: 14px;">需手动配置，速度可满足基本需求</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">59个国家5400台</td>
       <td style="font-size: 14px;">2年套餐：3.71美金/月</td>
