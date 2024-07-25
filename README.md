@@ -3,29 +3,29 @@
 <table>
   <thead>
     <tr>
-      <th style="background-color: lightgrey; font-size: 12px;">中国VPN推荐</th>
-      <th style="background-color: lightgrey; font-size: 12px;">翻墙稳定性</th>
-      <th style="background-color: lightgrey; font-size: 12px;">安全性</th>
-      <th style="background-color: lightgrey; font-size: 12px;">服务器数量</th>
-      <th style="background-color: lightgrey; font-size: 12px;">速度</th>
-      <th style="background-color: lightgrey; font-size: 12px;">价格</th>
-      <th style="background-color: lightgrey; font-size: 12px;">特色</th>
-      <th style="background-color: lightgrey; font-size: 12px;">综合评分</th>
+      <th style="background-color: lightgrey; font-size: 16px;">中国VPN推荐</th>
+      <th style="background-color: lightgrey; font-size: 16px;">翻墙稳定性</th>
+      <th style="background-color: lightgrey; font-size: 16px;">安全性</th>
+      <th style="background-color: lightgrey; font-size: 16px;">服务器数量</th>
+      <th style="background-color: lightgrey; font-size: 16px;">速度</th>
+      <th style="background-color: lightgrey; font-size: 16px;">价格</th>
+      <th style="background-color: lightgrey; font-size: 16px;">特色</th>
+      <th style="background-color: lightgrey; font-size: 16px;">综合评分</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: lightgrey; font-size: 12px;">ExpressVPN</td>
-      <td style="font-size: 8px;">翻墙非常稳定</td>
-      <td style="font-size: 8px;">非常安全</td>
-      <td style="font-size: 8px;">105个国家3000台</td>
-      <td style="font-size: 8px;">非常快，业内第一</td>
-      <td style="font-size: 8px;">1年套餐：6.67美金/月</td>
-      <td style="font-size: 8px;">免费赠送3个月，30天退款保证</td>
-      <td style="font-size: 8px; color: red;">9.9/10</td>
+      <td style="background-color: lightgrey; font-size: 16px;">ExpressVPN</td>
+      <td style="font-size: 12px;">翻墙非常稳定</td>
+      <td style="font-size: 12px;">非常安全</td>
+      <td style="font-size: 12px;">105个国家3000台</td>
+      <td style="font-size: 12px;">非常快，业内第一</td>
+      <td style="font-size: 12px;">1年套餐：6.67美金/月</td>
+      <td style="font-size: 12px;">免费赠送3个月，30天退款保证</td>
+      <td style="font-size: 12px; color: red;">9.9/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 12px;">PureVPN</td>
+      <td style="background-color: lightgrey; font-size: 16px;">PureVPN</td>
       <td style="font-size: 12px;">翻墙比较稳定</td>
       <td style="font-size: 12px;">比较安全</td>
       <td style="font-size: 12px;">70个国家6500台</td>
@@ -35,7 +35,7 @@
       <td style="font-size: 12px; color: red;">9.5/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 12px;">Surfshark</td>
+      <td style="background-color: lightgrey; font-size: 16px;">Surfshark</td>
       <td style="font-size: 12px;">翻墙比较稳定</td>
       <td style="font-size: 12px;">比较安全</td>
       <td style="font-size: 12px;">65个国家3200台</td>
@@ -45,7 +45,7 @@
       <td style="font-size: 12px; color: red;">9.0/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 12px;">NordVPN</td>
+      <td style="background-color: lightgrey; font-size: 16px;">NordVPN</td>
       <td style="font-size: 12px;">需手动配置</td>
       <td style="font-size: 12px;">非常安全</td>
       <td style="font-size: 12px;">59个国家5400台</td>
