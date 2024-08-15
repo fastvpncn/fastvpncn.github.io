@@ -193,7 +193,7 @@ PureVPN还提供独立静态IP地址，非常适合需要稳定IP访问的用户
 
 综上所述，PureVPN以其高性价比、安全性和多平台支持成为了许多用户的理想选择。虽然它不是市场上最顶级的VPN服务，但对于那些预算有限、需要稳定连接的用户来说，PureVPN无疑是一个值得考虑的选择。无论你是为了翻墙、保护隐私，还是访问受限内容，PureVPN都能提供可靠的服务。
 
-### 中国VPN推荐（三）：NordVPN
+### 中国VPN推荐（三）：NordVPN - 功能强大，支持手动配置
 
 ![NordVPN Banner：最好用的中国VPN之一，VPN推荐榜和VPN排行榜的第三名！](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/main/image/NordVPN%20Banner.jpg)
 
@@ -217,7 +217,7 @@ NordVPN支持多种设备和操作系统，包括Windows、MacOS、iOS、Android
 
 总的来说，NordVPN是一款综合表现不错的VPN，适合那些希望在注重隐私的同时获得较好翻墙体验的用户。虽然它在中国的表现不如ExpressVPN和PureVPN稳定，但作为排名第三的中国VPN，NordVPN依然是一个值得考虑的选择。
 
-### 中国VPN推荐（四）：Surfshark
+### 中国VPN推荐（四）：Surfshark - 不限制设备数，性价比高
 
 ![Surfshark Banner：最好用的中国VPN之一，VPN推荐榜和VPN排行榜的第四名！](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/main/image/Surfshark%20Banner.jpg)
 
@@ -241,7 +241,7 @@ Surfshark以其极具竞争力的定价著称，特别是其2年套餐，价格�
 
 综上所述，Surfshark凭借其3200台服务器、强大的安全功能、无限设备支持以及优异的解锁能力，成为了中国VPN市场中一个值得考虑的选择。虽然它在我们的榜单上不是排名最高的，但它的高性价比和广泛功能使其成为那些需要多设备保护和稳定连接的用户的理想选择。如果你正在寻找一个能够在多个设备上提供强大保护，并且能帮助你轻松绕过地理限制的VPN，Surfshark无疑是一个值得尝试的选择。
 
-### 中国VPN推荐（五）：AstrillVPN
+### 中国VPN推荐（五）：AstrillVPN - 在中国非常好用，但缺点也不少
 
 ![AstrillVPN Banner：最好用的中国VPN之一，VPN推荐榜和VPN排行榜的第五名！](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/main/image/AstrillVPN%20Banner.jpg)
 
