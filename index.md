@@ -143,9 +143,9 @@ ExpressVPN提供24/7的客户支持服务，用户可以通过在线聊天或邮
 
 #### 第一步：访问ExpressVPN官网并点击“Get ExpressVPN”。
 
-![中国用户购买下载安装ExpressVPN的第一步：访问ExpressVPN官网并点击“Get ExpressVPN”](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-1.jpg)
-
 由于ExpressVPN在全球拥有非常高的品牌知名度，市面上出现了很多假冒的ExpressVPN官网和APP客户端。所以为了安全起见，我们建议你直接通过我们提供的链接进入ExpressVPN官网。
+
+![中国用户购买下载安装ExpressVPN的第一步：访问ExpressVPN官网并点击“Get ExpressVPN”](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-1.jpg)
 
 * ExpressVPN唯一官网网站：www.expressvpn.com
 
@@ -153,39 +153,39 @@ ExpressVPN提供24/7的客户支持服务，用户可以通过在线聊天或邮
 
 #### 第二步：选择你想要购买的套餐
 
-![中国用户购买下载安装ExpressVPN的第二步：选择你想要购买的套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-2.jpg)
-
 ExpressVPN提供三种付费套餐，分别为1个月套餐、6个月套餐和12个月套餐。其中，1个月套餐的价格为12.95美金，6个月套餐为每月9.99美金，12个月套餐为每月8.32美金。不过，通过我们提供的专属优惠链接购买12个月套餐，你还可以享受额外赠送3个月的超值优惠。
+
+![中国用户购买下载安装ExpressVPN的第二步：选择你想要购买的套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-2.jpg)
 
 注意：无论你选择哪种套餐，ExpressVPN提供的服务都是一致的。你都可以访问其遍布全球105个国家的3000多个服务器，享受无限流量和带宽，并获得7x24小时在线客服支持以及30天退款保证。
 
 #### 第三步：输入你的电子邮箱
 
-![中国用户购买下载安装ExpressVPN的第三步：输入你的电子邮箱](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-3.jpg)
-
 在选择完付费套餐后，接下来需要填写你的电子邮箱。请确保填写你常用的邮箱，因为在你完成购买后，ExpressVPN会将确认邮件发送至该邮箱。该确认邮件包含重要的账户信息和后续服务细节。此外，如果你觉得ExpressVPN无法满足需求并希望申请全额退款，也需要使用这个邮箱进行相关操作。
+
+![中国用户购买下载安装ExpressVPN的第三步：输入你的电子邮箱](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-3.jpg)
 
 注意：由于政策限制，国内的163邮箱和QQ邮箱可能无法收到来自ExpressVPN的邮件。因此，我们建议使用Gmail、Outlook等国外邮箱，以确保你能顺利接收所有相关邮件。
 
 #### 第四步：选择一个合适的付款方式
 
-![中国用户购买下载安装ExpressVPN的第四步：选择一个合适的付款方式](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-4.jpg)
-
 ExpressVPN提供多种付款方式，包括信用卡、PayPal、银联卡和比特币等。需要注意的是，由于政策原因，ExpressVPN目前已经不再支持微信和支付宝等支付方式。不过，对于中国大陆用户来说，使用信用卡、银联卡或PayPal进行付款依然是非常方便的选择。
+
+![中国用户购买下载安装ExpressVPN的第四步：选择一个合适的付款方式](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-4.jpg)
 
 #### 第五步：查收邮件并获取激活码
 
-![中国用户购买下载安装ExpressVPN的第五步：查收邮件并获取激活码](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-5.jpg)
-
 当你完成支付后，会收到一封来自ExpressVPN的确认邮件。按照邮件中的提示，进入ExpressVPN账户管理页面，找到并保存好激活码，该激活码后续会用于激活你的ExpressVPN服务。
+
+![中国用户购买下载安装ExpressVPN的第五步：查收邮件并获取激活码](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-5.jpg)
 
 注意：如果你没有收到来自ExpressVPN的邮件，建议检查一下邮件的“垃圾箱”，并将ExpressVPN的邮件标记为“非垃圾邮件”，以确保今后不会遗漏重要信息。
 
 #### 第六步：下载并安装ExpressVPN客户端
 
-![中国用户购买下载安装ExpressVPN的第六步：下载并安装ExpressVPN客户端](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-6.jpg)
-
 在ExpressVPN账户管理页面，你可以轻松找到适用于Windows、MacOS、Android、iOS等设备的APP客户端。接下来，根据你设备的类型，选择对应的APP客户端进行下载，并按照提示完成安装。当然，你也可以通过以下链接直接下载适用于你设备的APP客户端。
+
+![中国用户购买下载安装ExpressVPN的第六步：下载并安装ExpressVPN客户端](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-6.jpg)
 
 * Windows APP：https://www.expressvpn.com/vpn-download/vpn-windows
 * ManOS APP：https://www.expressvpn.com/vpn-download/vpn-mac
@@ -197,9 +197,9 @@ ExpressVPN提供多种付款方式，包括信用卡、PayPal、银联卡和比�
 
 #### 第七步：登录客户端并一键完成翻墙
 
-![中国用户购买下载安装ExpressVPN的第七步：登录客户端并一键完成翻墙](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-7.jpg)
-
 安装完成后，打开ExpressVPN客户端，系统会提示你输入激活码，完成激活后即可进入客户端的主页面。接下来，你可以手动选择要连接的服务器节点，并点击屏幕中央的“连接”按钮，即可开始自由访问海外互联网。当然，你也可以不手动选择节点，直接点击“连接”按钮，ExpressVPN会根据你的地理位置自动为你选择最佳的服务器节点。
+
+![中国用户购买下载安装ExpressVPN的第七步：登录客户端并一键完成翻墙](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-7.jpg)
 
 ****
 
