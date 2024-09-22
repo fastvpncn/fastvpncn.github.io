@@ -289,7 +289,7 @@ PureVPN还提供独立静态IP地址，非常适合需要稳定IP访问的用户
 
 ****
 
-### 中国VPN推荐（三）：<a href="https://bit.ly/rd-vpn">>NordVPN - 功能强大，支持手动配置</a
+### 中国VPN推荐（三）：<a href="https://bit.ly/rd-vpn">NordVPN - 功能强大，支持手动配置</a>
 
 ![NordVPN Banner：最好用的中国VPN之一，VPN推荐榜和VPN排行榜的第三名！](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/main/image/NordVPN%20Banner.jpg)
 
