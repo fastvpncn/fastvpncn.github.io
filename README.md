@@ -20,7 +20,7 @@
   </thead>
   <tbody>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;">ExpressVPN</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/eps-vpn">ExpressVPN</a></td>
       <td style="font-size: 14px;">非常稳定</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">105个国家3000台</td>
@@ -29,7 +29,7 @@
       <td style="font-size: 14px; color: red;">9.9/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;">PureVPN</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/pe-vpn">PureVPN</a></td>
       <td style="font-size: 14px;">稳定</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">70个国家6500台</td>
@@ -38,7 +38,7 @@
       <td style="font-size: 14px; color: red;">9.5/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;">Surfshark</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/surf-vpn">Surfshark</a></td>
       <td style="font-size: 14px;">稳定</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">65个国家3200台</td>
@@ -47,7 +47,7 @@
       <td style="font-size: 14px; color: red;">9.0/10</td>
     </tr>
     <tr>
-      <td style="background-color: lightgrey; font-size: 16px;">NordVPN</td>
+      <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/rd-vpn">NordVPN</a></td>
       <td style="font-size: 14px;">需手动配置</td>
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">59个国家5400台</td>
