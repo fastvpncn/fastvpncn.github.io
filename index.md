@@ -16,8 +16,8 @@
 
 更重要的是，像ExpressVPN和PureVPN这样的顶级VPN也非常重视中国市场，并长期投入大量的人力和财力来与GFW抗衡，能够持续提供稳定的翻墙服务。而且这些服务商在全球范围内已经运营了十几年，拥有庞大的忠实用户群体，并且财务稳健，几乎没有跑路的风险。因此，国外付费VPN对于中国大陆用户来说，是最安全且值得信赖的选择。
 
-* 翻墙VPN首选：ExpressVPN
-* 翻墙VPN备选：PureVPN
+* 翻墙VPN首选：<a href="https://bit.ly/eps-vpn">ExpressVPN</a> - 翻墙非常稳定，安全性高，连接速度行业内第一，在105个国家部署了3000多台服务器，30天免费。
+* 翻墙VPN备选：<a href="https://bit.ly/pe-vpn">PureVPN</a> - 翻墙稳定，安全好用，在70个国家88个地区部署了6500多台服务器，价格便宜，每月2.11美金。
 
 总的来说，以上两款便是我们从近百款翻墙软件中挑选出来的，它们具备翻墙稳定、速度快、解锁能力强、兼容性好等特点，提供24小时客服和30天退款保证，大家可以放心地购买使用。
 
@@ -99,7 +99,7 @@
 
 首先，点击我们下方提供的专属优惠链接进入ExpressVPN官网，并点击首页上的“Get ExpressVPN”按钮。
 
-* ExpressVPN官网：www.expressvpn.com
+* ExpressVPN官网：<a href="https://bit.ly/eps-vpn">www.expressvpn.com</a>
 
 **第二步：选择付费套餐**
 
