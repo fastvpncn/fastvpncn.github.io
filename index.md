@@ -318,7 +318,7 @@ sudo ss-server -c /etc/shadowsocks-libev/config.json -d start
 
 1，下载：使用命令下载V2Ray的最新版本：
 
-wget https://github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip
+wget github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip
 
 2，解压和安装：
 
@@ -342,6 +342,7 @@ sudo cp v2ctl /usr/local/bin/
 "outbounds": [{
 "protocol": "freedom"
 }]
+
 }
 
 4，启动服务：启动V2Ray服务，使用以下命令：
