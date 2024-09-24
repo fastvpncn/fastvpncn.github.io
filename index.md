@@ -1,6 +1,6 @@
 # 科学上网教程：2024年最好用的翻墙软件推荐（更新于9月23日）
 
-![科学上网教程：最好用的翻墙软件推荐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ke-xue-shang-wang.jpg)
+![科学上网教程：最好用的翻墙软件推荐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/Ke-xue-shang-wang.jpg)
 
 在翻墙越来越难的今天，越来越多的中国大陆网民为如何翻墙、如何科学上网而困扰。同时，许多新手朋友也关心翻墙后可以做什么、翻墙工具连不上该怎么办，以及翻墙和科学上网时需要注意什么。为了帮助大家找到最好用的科学上网工具，我们在中国大陆对近百款翻墙软件进行了实测，包括国外付费VPN、免费VPN、国产机场梯子等。但遗憾的是，我们的实测后发现，现如今仍能在中国大陆使用的翻墙软件屈指可数，绝大多数都已被GFW封锁，无法正常使用了。我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
 
