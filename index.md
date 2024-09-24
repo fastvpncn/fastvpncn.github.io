@@ -342,7 +342,6 @@ sudo cp v2ctl /usr/local/bin/
 "outbounds": [{
 "protocol": "freedom"
 }]
-
 }
 
 4，启动服务：启动V2Ray服务，使用以下命令：
