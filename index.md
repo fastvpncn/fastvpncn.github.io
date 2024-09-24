@@ -265,7 +265,7 @@ sudo apt install curl git wget -y
 
 一旦完成基础环境的准备，用户可以根据所选择的翻墙协议下载相应的安装脚本或软件包。例如，如果选择Shadowsocks，用户可以通过以下命令克隆其GitHub仓库：
 
-git clone https://github.com/shadowsocks/shadowsocks-libev.git
+git clone github.com/shadowsocks/shadowsocks-libev.git
 
 对于其他协议，如V2Ray，用户需要从其官方网站下载最新的安装包，并按照官方文档进行配置。
 
