@@ -272,11 +272,11 @@ git clone https://github.com/shadowsocks/shadowsocks-libev.git
 配置文件是服务器配置中的重要部分，用户需要根据自己的需求调整相应的参数。在配置Shadowsocks时，用户需要设置服务器端口、密码和加密方式等。可以通过编辑配置文件来实现：
 
 {
-    "server": "0.0.0.0",
-    "server_port": 8388,
-    "password": "your_password",
-    "timeout": 300,
-    "method": "aes-256-gcm"
+"server": "0.0.0.0",
+"server_port": 8388,
+"password": "your_password",
+"timeout": 300,
+"method": "aes-256-gcm"
 }
 
 在完成所有配置后，用户可以启动翻墙服务，确保服务正常运行。为了确保服务器在重启后自动启动服务，可以使用systemctl命令创建服务文件。
@@ -302,12 +302,12 @@ sudo make && sudo make install
 2，配置文件：安装完成后，需要创建配置文件。可以在/etc/shadowsocks-libev/config.json中添加以下内容：
 
 {
-    "server": "你的服务器IP",
-    "port_password": {
-        "8388": "你的密码"
-    },
-    "timeout": 300,
-    "method": "aes-256-gcm"
+"server": "你的服务器IP",
+"port_password": {
+"8388": "你的密码"
+},
+"timeout": 300,
+"method": "aes-256-gcm"
 }
 
 3，启动服务：使用以下命令启动Shadowsocks服务：
@@ -329,19 +329,19 @@ sudo cp v2ctl /usr/local/bin/
 3，配置文件：创建V2Ray配置文件，通常位于/etc/v2ray/config.json，内容示例如下：
 
 {
-    "inbounds": [{
-        "port": 10086,
-        "protocol": "vmess",
-        "settings": {
-            "clients": [{
-                "id": "你的UUID",
-                "alterId": 64
-            }]
-        }
-    }],
-    "outbounds": [{
-        "protocol": "freedom"
-    }]
+"inbounds": [{
+"port": 10086,
+"protocol": "vmess",
+"settings": {
+"clients": [{
+"id": "你的UUID",
+"alterId": 64
+}]
+}
+}],
+"outbounds": [{
+"protocol": "freedom"
+}]
 }
 
 4，启动服务：启动V2Ray服务，使用以下命令：
@@ -361,12 +361,12 @@ sudo systemctl start v2ray
 1，编辑配置文件：大多数翻墙软件都需要一个配置文件，用户可以根据自己的需求进行修改。以Shadowsocks为例，配置文件通常位于/etc/shadowsocks-libev/config.json。用户可以设置服务器地址、端口、加密方式以及密码等。例如：
 
 {
-    "server": "你的服务器IP",
-    "port_password": {
-        "8388": "你的密码"
-    },
-    "timeout": 300,
-    "method": "aes-256-gcm"
+"server": "你的服务器IP",
+"port_password": {
+"8388": "你的密码"
+},
+"timeout": 300,
+"method": "aes-256-gcm"
 }
 
 这里需要注意的是，端口和密码的选择直接影响到翻墙的安全性和稳定性。
