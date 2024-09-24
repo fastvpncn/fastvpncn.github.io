@@ -103,29 +103,43 @@
 
 * ExpressVPN官网：<a href="https://bit.ly/eps-vpn">www.expressvpn.com</a>
 
+![翻墙和科学上网步骤一：访问ExpressVPN官网](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-1.jpg)
+
 **第二步：选择付费套餐**
 
 ExpressVPN提供多种付费套餐，其中12个月的套餐性价比最高。通过点击上方链接购买，还能享受最新的优惠折扣，即免费赠送3个月，价格低至6.67美元/月。
+
+![翻墙和科学上网步骤二：选择付费套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-2.jpg)
 
 **第三步：输入电子邮箱**
 
 选择好套餐后，系统会要求你输入有效的电子邮箱地址，该邮箱将用于接收ExpressVPN的购买确认邮件。
 
+![翻墙和科学上网步骤三：输入电子邮箱](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-3.jpg)
+
 **第四步：选择付款方式**
 
 ExpressVPN支持多种付款方式，包括信用卡、PayPal、比特币和银联卡等。请选择最适合你的付款方式，并完成支付。
+
+![翻墙和科学上网步骤四：选择付款方式](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-4.jpg)
 
 **第五步：下载ExpressVPN应用程序**
 
 当付款完成后，你将获得ExpressVPN应用程序的下载链接。根据你使用的设备（如Windows、Mac、iOS、Android等），下载并安装相应的客户端应用程序。
 
+![翻墙和科学上网步骤五：下载ExpressVPN应用程序](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-5.jpg)
+
 **第六步：登录并连接**
 
 当安装完成后，打开ExpressVPN应用程序，使用注册时的电子邮箱和密码登录账户。在主界面中，点击中间的“连接”按钮，应用会自动为你选择最快的服务器并连接。
 
+![翻墙和科学上网步骤六：登录并连接](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-6.jpg)
+
 **第七步：开始翻墙和科学上网**
 
 当连接成功后，你便可以安全地浏览全球各地的网站，访问被封锁的内容，如Google、YouTube、Facebook等，还可以流畅观看国外的流媒体内容。
+
+![翻墙和科学上网步骤七：开始翻墙和科学上网](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-7.jpg)
 
 小结： 以上就是使用ExpressVPN成功翻墙的详细步骤，其他顶级VPN的操作步骤也大致相同。
 
