@@ -493,6 +493,6 @@ systemctl enable shadowsocks-libev
 
 ## 科学上网相关的其他文章：
 
-* <a href="https://github.com/fastvpncn/fastvpncn.github.io">VPN推荐</a>和<a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
+* <a href="https://github.com/fastvpncn/fastvpncn.github.io">VPN推荐</a>和<a href="https://github.com/fastvpncn/fastvpncn.github.io">VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
 
-* <a href="https://github.com/fastvpncn/pcvpn.github.io">电脑翻墙</a>教程和<a href=https://github.com/fastvpncn/pcvpn.github.io>电脑VPN</a>推荐：本文将推荐几款最佳的电脑VPN软件，它们翻墙非常稳定，安全性高，并能够兼容多种设备，包括电脑、手机、平板、路由器和智能电视。这些电脑翻墙软件还能够轻松解锁YouTube、Netflix、Facebook、ChatGPT、Claude和TikTok等平台，让你畅享全球内容。
+* <a href="https://github.com/fastvpncn/pcvpn.github.io">电脑翻墙</a>教程和<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN</a>推荐：本文将推荐几款最佳的电脑VPN软件，它们翻墙非常稳定，安全性高，并能够兼容多种设备，包括电脑、手机、平板、路由器和智能电视。这些电脑翻墙软件还能够轻松解锁YouTube、Netflix、Facebook、ChatGPT、Claude和TikTok等平台，让你畅享全球内容。
