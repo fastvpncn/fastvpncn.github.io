@@ -1,4 +1,4 @@
-# 科学上网教程：2024年最好用的翻墙软件推荐（更新于9月23日）
+# 科学上网教程：2024年最好用的翻墙软件推荐（更新于10月16日）
 
 ![科学上网教程：最好用的翻墙软件推荐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/Ke-xue-shang-wang.jpg)
 
@@ -490,3 +490,9 @@ systemctl enable shadowsocks-libev
 此外，虽然自建翻墙软件为技术大牛提供了更高的自由度和灵活性，但对于普通用户而言，自建翻墙工具不仅费时费力，还费钱，直接选择成熟的翻墙VPN会更加方便。
 
 最后，需要提醒大家，切勿使用翻墙软件浏览或传播敏感信息，并且要定期更新科学上网工具。如遇任何问题，务必第一时间联系在线客服寻求帮助，以确保获得最佳的上网体验。
+
+## 科学上网相关的其他文章：
+
+* <a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN推荐</a>和<a href=https://github.com/fastvpncn/fastvpncn.github.io>VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
+
+* <a href=https://github.com/fastvpncn/pcvpn.github.io>电脑翻墙</a>教程和<a href=https://github.com/fastvpncn/pcvpn.github.io>电脑VPN</a>推荐：本文将推荐几款最佳的电脑VPN软件，它们翻墙非常稳定，安全性高，并能够兼容多种设备，包括电脑、手机、平板、路由器和智能电视。这些电脑翻墙软件还能够轻松解锁YouTube、Netflix、Facebook、ChatGPT、Claude和TikTok等平台，让你畅享全球内容。
