@@ -1,8 +1,8 @@
-# 科学上网教程：2024年最好用的翻墙软件推荐（更新于10月16日）
+# 科学上网教程：2024年最好用的翻墙软件推荐（更新于10月25日）
 
 ![科学上网教程：最好用的翻墙软件推荐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/Ke-xue-shang-wang.jpg)
 
-<p align="center">如果你想查看更多<a href="https://github.com/fastvpncn/fastvpncn.github.io">好用的VPN</a>，请查看：<a href="https://github.com/fastvpncn/fastvpncn.github.io">中国VPN推荐</a></p>
+<p align="center">更多好用的VPN请查看：<a href="https://github.com/fastvpncn/fastvpncn.github.io">中国VPN推荐</a>、<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN推荐</a>、<a href="https://github.com/fastvpncn/expressvpn-review">ExpressVPN中国评测</a></p>
 
 在翻墙越来越难的今天，越来越多的中国大陆网民为如何翻墙、如何科学上网而困扰。同时，许多新手朋友也关心翻墙后可以做什么、翻墙工具连不上该怎么办，以及翻墙和科学上网时需要注意什么。为了帮助大家找到最好用的科学上网工具，我们在中国大陆对近百款翻墙软件进行了实测，包括国外付费VPN、免费VPN、国产机场梯子等。但遗憾的是，我们的实测后发现，现如今仍能在中国大陆使用的翻墙软件屈指可数，绝大多数都已被GFW封锁，无法正常使用了。我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
 
@@ -496,3 +496,5 @@ systemctl enable shadowsocks-libev
 * <a href="https://github.com/fastvpncn/fastvpncn.github.io">VPN推荐</a>和<a href="https://github.com/fastvpncn/fastvpncn.github.io">VPN排行</a>：本文将为大家推荐几款依然能在大陆使用，且翻墙稳定、连接速度快、兼容性强、价格便宜的中国VPN软件！它们可帮助国内VPN用户快速访问Netflix、Youtube、Facebook、ChatGPT、TikTok、Telegram等网站！
 
 * <a href="https://github.com/fastvpncn/pcvpn.github.io">电脑翻墙</a>教程和<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN</a>推荐：本文将推荐几款最佳的电脑VPN软件，它们翻墙非常稳定，安全性高，并能够兼容多种设备，包括电脑、手机、平板、路由器和智能电视。这些电脑翻墙软件还能够轻松解锁YouTube、Netflix、Facebook、ChatGPT、Claude和TikTok等平台，让你畅享全球内容。
+
+* <a href="https://github.com/fastvpncn/expressvpn-review">ExpressVPN中国评测</a>：ExpressVPN怎么样？ExpressVPN好用吗？ExpressVPN国内还能用吗？在本篇ExpressVPN评测中，我们将从翻墙能力、安全性、使用体验和价格等多个方面进行深入分析，帮助你全面了解ExpressVPN在中国的实际表现。
