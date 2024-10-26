@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+https://github.com/fastvpncn/fastvpncn.github.io
+https://github.com/fastvpncn/pcvpn.github.io
+https://github.com/fastvpncn/expressvpn-review
