@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+	<url>
+		<loc>https://github.com/fastvpncn/fastvpncn.github.io</loc>
+		<priority>0.8</priority>
+		<changefreq>daily</changefreq>
+		<lastmod>2024-10-26</lastmod>
+	</url>
+
+	<url>
+		<loc>https://github.com/fastvpncn/pcvpn.github.io</loc>
+		<priority>0.8</priority>
+		<changefreq>daily</changefreq>
+		<lastmod>2024-10-26</lastmod>
+	</url>
+
+	<url>
+		<loc>https://github.com/fastvpncn/expressvpn-review</loc>
+		<priority>0.8</priority>
+		<changefreq>daily</changefreq>
+		<lastmod>2024-10-26</lastmod>
+	</url>
+
+</urlset>
