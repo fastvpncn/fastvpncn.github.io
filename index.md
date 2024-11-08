@@ -35,8 +35,6 @@
 
 </blockquote>
 
-更多好用的VPN请查看：<a href="https://github.com/fastvpncn/fastvpncn.github.io">中国VPN推荐</a>、<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN推荐</a>、<a href="https://github.com/fastvpncn/expressvpn-review">ExpressVPN中国评测</a>、<a href="https://github.com/fastvpncn/letsvpn-review">快连VPN怎么样</a>
-
 ## 2024年翻墙方法有哪些？
 
 目前市面上的翻墙方法有很多，但常见的翻墙方式可以归纳为三类：国外付费VPN、国产翻墙软件、自建机场梯子。但无论是哪种翻墙方式，都有着它们各自的优势和不足。接下来，我们将详细介绍这三种常见的翻墙方式。无论你是普通用户，想访问被封锁的海外网站和APP，还是具备技术能力的高级用户，都能找到适合自己的翻墙工具。
