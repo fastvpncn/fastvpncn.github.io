@@ -4,15 +4,11 @@
 
 在翻墙越来越难的今天，越来越多的中国大陆网民为如何翻墙、如何科学上网而困扰。同时，许多新手朋友也关心翻墙后可以做什么、翻墙工具连不上该怎么办，以及翻墙和科学上网时需要注意什么。为了帮助大家找到最好用的科学上网工具，我们在中国大陆对近百款翻墙软件进行了实测，包括国外付费VPN、免费VPN、国产机场梯子等。但遗憾的是，我们的实测后发现，现如今仍能在中国大陆使用的翻墙软件屈指可数，绝大多数都已被GFW封锁，无法正常使用了。我们这篇科学上网教程将详细教大家如何翻墙、如何科学上网，并为大家推荐几款最好用的翻墙软件。
 
-<blockquote>
+* 翻墙VPN（首选）：**<a href="https://bit.ly/eps-vpn">ExpressVPN（免费试用30天）</a>** - 翻墙非常稳定，安全性高，连接速度行业内最快，在105个国家部署了3000多台服务器，允许8台设备同时登录使用，现在购买12个月套餐还免费赠送3个月，平均每月6.67美金，提供24小时在线客服和为期30天退款保证。
 
-翻墙VPN（首选）：**<a href="https://bit.ly/eps-vpn">ExpressVPN（免费试用30天）</a>** - 翻墙非常稳定，安全性高，连接速度行业内最快，在105个国家部署了3000多台服务器，允许8台设备同时登录使用，现在购买12个月套餐还免费赠送3个月，平均每月6.67美金，提供24小时在线客服和为期30天退款保证。
+* 翻墙VPN（备选）：**<a href="https://bit.ly/stg-vpn">StrongVPN（支持支付宝付款）</a>** - 老牌VPN，翻墙也比较稳定，在30个国家和地区部署了950台服务器，允许12台设备同时登录使用，价格相对比较便宜，每月3.97美金，提供24小时在线客服。
 
-翻墙VPN（备选）：**<a href="https://bit.ly/stg-vpn">StrongVPN（支持支付宝付款）</a>** - 老牌VPN，翻墙也比较稳定，在30个国家和地区部署了950台服务器，允许12台设备同时登录使用，价格相对比较便宜，每月3.97美金，提供24小时在线客服。
-
-翻墙VPN（替补）：**<a href="https://bit.ly/pe-vpn">PureVPN（每月2.11美金）</a>** - 安全好用，在70个国家88个地区部署了6500多台服务器，轻松解锁Netflix、ChatGPT等网站，价格便宜，并提供24小时在线客服。
-
-</blockquote>
+* 翻墙VPN（替补）：**<a href="https://bit.ly/pe-vpn">PureVPN（每月2.11美金）</a>** - 安全好用，在70个国家88个地区部署了6500多台服务器，轻松解锁Netflix、ChatGPT等网站，价格便宜，并提供24小时在线客服。
 
 以上便是我们从近百款翻墙软件中挑选出来的三款最佳翻墙VPN软件，它们都可以在中国大陆使用（尤其是ExpressVPN，全年可用率高达98%以上），并且安全性高、兼容性好、速度快、解锁地域限制能力强，还提供24小时在线客服和为期30天退款保证，大家可以放心地购买使用。
 
@@ -39,7 +35,7 @@
 
 </blockquote>
 
-<p align="center">更多好用的VPN请查看：<a href="https://github.com/fastvpncn/fastvpncn.github.io">中国VPN推荐</a>、<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN推荐</a>、<a href="https://github.com/fastvpncn/expressvpn-review">ExpressVPN中国评测</a>、<a href="https://github.com/fastvpncn/letsvpn-review">快连VPN怎么样</a></p>
+更多好用的VPN请查看：<a href="https://github.com/fastvpncn/fastvpncn.github.io">中国VPN推荐</a>、<a href="https://github.com/fastvpncn/pcvpn.github.io">电脑VPN推荐</a>、<a href="https://github.com/fastvpncn/expressvpn-review">ExpressVPN中国评测</a>、<a href="https://github.com/fastvpncn/letsvpn-review">快连VPN怎么样</a>
 
 ## 2024年翻墙方法有哪些？
 
