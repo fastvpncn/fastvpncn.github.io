@@ -386,6 +386,7 @@ Clash和Xray是近年来新兴的翻墙工具，它们整合了多种协议，�
 cd shadowsocks-libev
 sudo apt install build-essential -y
 sudo apt install libssl-dev libmbedcrypto-dev -y
+```
 
 然后，运行编译命令：
 
@@ -402,6 +403,7 @@ sudo apt install libssl-dev libmbedcrypto-dev -y
     "timeout": 300,
     "method": "aes-256-gcm"
 }
+```
 
 3，启动服务：使用以下命令启动Shadowsocks服务：
 
@@ -419,6 +421,7 @@ sudo apt install libssl-dev libmbedcrypto-dev -y
 unzip v2ray-linux-64.zip
 sudo cp v2ray /usr/local/bin/
 sudo cp v2ctl /usr/local/bin/
+```
 
 3，配置文件：创建V2Ray配置文件，通常位于/etc/v2ray/config.json，内容示例如下：
 
@@ -438,6 +441,7 @@ sudo cp v2ctl /usr/local/bin/
         "protocol": "freedom"
     }]
 }
+```
 
 4，启动服务：启动V2Ray服务，使用以下命令：
 
@@ -464,6 +468,7 @@ sudo cp v2ctl /usr/local/bin/
     "timeout": 300,
     "method": "aes-256-gcm"
 }
+```
 
 这里需要注意的是，端口和密码的选择直接影响到翻墙的安全性和稳定性。
 
@@ -538,7 +543,6 @@ sudo cp v2ctl /usr/local/bin/
 为了进一步提升连接速度，用户还可以启用分流功能。该功能允许用户在访问国外网站时，例如Netflix、YouTube等流媒体平台，通过VPN连接，而访问国内的百度、淘宝等网站则不经过VPN，从而节省带宽，提高速度。这种灵活的配置方式，使得用户在享受全球内容的同时，也能保证国内网络的流畅性。
 
 * 建议开启Kill Switch
-
 
 在翻墙过程中，网络连接的不稳定可能导致隐私泄露。启用Kill Switch功能可以在VPN连接意外断开时自动切断互联网访问，防止敏感数据泄露。因此，务必确保在使用翻墙软件时此功能处于开启状态，尤其是在进行重要操作时，这样可以大大提高安全性。
 
