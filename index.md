@@ -346,7 +346,7 @@ Clash和Xray是近年来新兴的翻墙工具，它们整合了多种协议，�
 
 在服务器上，首先建议更新系统，以确保使用最新的安全补丁和软件版本。对于基于Ubuntu或Debian的系统，可以使用以下命令：
 
-sudo apt update && sudo apt upgrade -y
+`sudo apt update && sudo apt upgrade -y `
 
 接下来，用户需要安装所需的依赖包，这些包可能包括curl、git和wget等，这些工具将帮助下载和安装翻墙软件。安装命令如下：
 
