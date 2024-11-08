@@ -22,7 +22,7 @@
 
 * 翻墙VPN（首选）：**<a href="https://bit.ly/eps-vpn">ExpressVPN</a>** - 翻墙非常稳定，安全性高，连接速度行业内最快，在105个国家部署了3000多台服务器，允许8台设备同时登录使用，现在购买12个月套餐还免费赠送3个月，平均每月6.67美金，提供24小时在线客服和为期30天退款保证，即可以免费试用30天。
 
-* 翻墙VPN（备选）：**StrongVPN** - 老牌VPN，翻墙也比较稳定，在30个国家和地区部署了950台服务器，允许12台设备同时登录使用，价格相对比较便宜，每月3.97美金，支持支付宝付款，提供24小时在线客服。
+* 翻墙VPN（备选）：**<a href="https://bit.ly/stg-vpn">StrongVPN</a>** - 老牌VPN，翻墙也比较稳定，在30个国家和地区部署了950台服务器，允许12台设备同时登录使用，价格相对比较便宜，每月3.97美金，支持支付宝付款，提供24小时在线客服。
 
 * 翻墙VPN（替补）：**<a href="https://bit.ly/pe-vpn">PureVPN</a>** - 安全好用，在70个国家88个地区部署了6500多台服务器，轻松解锁Netflix、ChatGPT等网站，价格便宜，每月2.11美金，提供24小时在线客服。
 
@@ -76,7 +76,7 @@ ExpressVPN在全球105个国家和地区拥有超过3000台服务器，这一庞
 
 ****
 
-### 翻墙VPN（备选）：<a href="">StrongVPN - 老牌VPN，每月3.97美金，支持支付宝付款</a>
+### 翻墙VPN（备选）：<a href="https://bit.ly/stg-vpn">StrongVPN - 老牌VPN，每月3.97美金，支持支付宝付款</a>
 
 StrongVPN自2005年在美国成立以来，凭借近20年的经验，逐步发展成为一款成熟且可靠的VPN服务。StrongVPN在全球范围内拥有950多台服务器，分布于30多个国家和地区，满足了用户多样化的连接需求。这一庞大的服务器网络为StrongVPN用户提供了稳定的网络覆盖，无论用户身在何处，都可以找到适合的服务器。每个账户支持同时连接多达12台设备，非常适合家庭或设备较多的用户，在多设备接入上为用户提供了极大灵活性。
 
@@ -94,7 +94,7 @@ StrongVPN的价格相对较为亲民，其年付套餐折算下来每月仅需3.
 
 总体而言，在翻墙稳定性和连接速度等方面，StrongVPN虽然不及ExpressVPN强大，但也完全可以满足大多数用户的基本需求。此外，StrongVPN价格更为实惠，且支持支付宝付款，是一项显著优势。对于翻墙稳定性和速度要求不算特别高，但更关注价格的用户而言，StrongVPN无疑是一个非常不错的选择。
 
-<p align="center"><a href="">立即获取StrongVPN（支持支付宝付款）</a></p>
+<p align="center"><a href="https://bit.ly/stg-vpn">立即获取StrongVPN（支持支付宝付款）</a></p>
 
 ****
 
@@ -350,23 +350,24 @@ Clash和Xray是近年来新兴的翻墙工具，它们整合了多种协议，�
 
 接下来，用户需要安装所需的依赖包，这些包可能包括curl、git和wget等，这些工具将帮助下载和安装翻墙软件。安装命令如下：
 
-sudo apt install curl git wget -y
+`sudo apt install curl git wget -y `
 
 一旦完成基础环境的准备，用户可以根据所选择的翻墙协议下载相应的安装脚本或软件包。例如，如果选择Shadowsocks，用户可以通过以下命令克隆其GitHub仓库：
 
-git clone github.com/shadowsocks/shadowsocks-libev.git
+`git clone https://github.com/shadowsocks/shadowsocks-libev.git `
 
 对于其他协议，如V2Ray，用户需要从其官方网站下载最新的安装包，并按照官方文档进行配置。
 
 配置文件是服务器配置中的重要部分，用户需要根据自己的需求调整相应的参数。在配置Shadowsocks时，用户需要设置服务器端口、密码和加密方式等。可以通过编辑配置文件来实现：
 
+```json
 {
-"server": "0.0.0.0",
-"server_port": 8388,
-"password": "your_password",
-"timeout": 300,
-"method": "aes-256-gcm"
-}
+    "server": "0.0.0.0",
+    "server_port": 8388,
+    "password": "your_password",
+    "timeout": 300,
+    "method": "aes-256-gcm"
+} 
 
 在完成所有配置后，用户可以启动翻墙服务，确保服务正常运行。为了确保服务器在重启后自动启动服务，可以使用systemctl命令创建服务文件。
 
@@ -380,62 +381,66 @@ git clone github.com/shadowsocks/shadowsocks-libev.git
 
 1，下载和编译：首先，进入到之前克隆的Shadowsocks目录，使用以下命令编译：
 
+```bash
 cd shadowsocks-libev
 sudo apt install build-essential -y
 sudo apt install libssl-dev libmbedcrypto-dev -y
 
 然后，运行编译命令：
 
-sudo make && sudo make install
+`sudo make && sudo make install`
 
 2，配置文件：安装完成后，需要创建配置文件。可以在/etc/shadowsocks-libev/config.json中添加以下内容：
 
+```json
 {
-"server": "你的服务器IP",
-"port_password": {
-"8388": "你的密码"
-},
-"timeout": 300,
-"method": "aes-256-gcm"
+    "server": "你的服务器IP",
+    "port_password": {
+        "8388": "你的密码"
+    },
+    "timeout": 300,
+    "method": "aes-256-gcm"
 }
 
 3，启动服务：使用以下命令启动Shadowsocks服务：
 
-sudo ss-server -c /etc/shadowsocks-libev/config.json -d start
+`sudo ss-server -c /etc/shadowsocks-libev/config.json -d start`
 
 #### 二、安装V2Ray
 
 1，下载：使用命令下载V2Ray的最新版本：
 
-wget github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip
+`wget https://github.com/v2ray/v2ray-core/releases/latest/download/v2ray-linux-64.zip`
 
 2，解压和安装：
 
+```bash
 unzip v2ray-linux-64.zip
 sudo cp v2ray /usr/local/bin/
 sudo cp v2ctl /usr/local/bin/
 
 3，配置文件：创建V2Ray配置文件，通常位于/etc/v2ray/config.json，内容示例如下：
 
+```json
 {
-"inbounds": [{
-"port": 10086,
-"protocol": "vmess",
-"settings": {
-"clients": [{
-"id": "你的UUID",
-"alterId": 64
-}]
-}
-}],
-"outbounds": [{
-"protocol": "freedom"
-}]
+    "inbounds": [{
+        "port": 10086,
+        "protocol": "vmess",
+        "settings": {
+            "clients": [{
+                "id": "你的UUID",
+                "alterId": 64
+            }]
+        }
+    }],
+    "outbounds": [{
+        "protocol": "freedom"
+    }]
 }
 
 4，启动服务：启动V2Ray服务，使用以下命令：
 
-sudo systemctl start v2ray
+`sudo systemctl start v2ray`
 
 #### 三、安装其他协议
 
@@ -449,13 +454,14 @@ sudo systemctl start v2ray
 
 1，编辑配置文件：大多数翻墙软件都需要一个配置文件，用户可以根据自己的需求进行修改。以Shadowsocks为例，配置文件通常位于/etc/shadowsocks-libev/config.json。用户可以设置服务器地址、端口、加密方式以及密码等。例如：
 
+```json
 {
-"server": "你的服务器IP",
-"port_password": {
-"8388": "你的密码"
-},
-"timeout": 300,
-"method": "aes-256-gcm"
+    "server": "你的服务器IP",
+    "port_password": {
+        "8388": "你的密码"
+    },
+    "timeout": 300,
+    "method": "aes-256-gcm"
 }
 
 这里需要注意的是，端口和密码的选择直接影响到翻墙的安全性和稳定性。
@@ -466,7 +472,7 @@ sudo systemctl start v2ray
 
 4，保存并重启服务：完成配置后，保存文件并重启翻墙服务以使更改生效。例如，对于Shadowsocks，可以使用以下命令重启：
 
-sudo systemctl restart shadowsocks-libev
+`sudo systemctl restart shadowsocks-libev`
 
 5，测试连接：配置完成后，用户应测试翻墙软件的连接是否正常。可以使用浏览器访问被屏蔽的网站，检查速度和稳定性。
 
@@ -480,21 +486,21 @@ sudo systemctl restart shadowsocks-libev
 
 2，启动服务：根据所使用的翻墙软件，执行相应的启动命令。以Shadowsocks为例，可以使用以下命令启动服务：
 
-systemctl start shadowsocks-libev
+`systemctl start shadowsocks-libev`
 
 或者，如果是使用自定义的启动脚本，可以运行：
 
-ss-server -c /etc/shadowsocks-libev/config.json
+`ss-server -c /etc/shadowsocks-libev/config.json`
 
 3，验证运行状态：服务启动后，可以使用以下命令检查服务状态，确认其正常运行：
 
-systemctl status shadowsocks-libev
+`systemctl status shadowsocks-libev`
 
 如果服务状态显示为“active (running)”，则说明翻墙软件已成功启动。
 
 4，设置开机自启：为了确保每次服务器重启后翻墙软件能够自动启动，可以设置开机自启。在Linux系统中，可以使用以下命令：
 
-systemctl enable shadowsocks-libev
+`systemctl enable shadowsocks-libev`
 
 通过上述步骤，用户可以顺利启动翻墙服务，接下来可以在本地设备上配置客户端，开始安全、自由地访问全球互联网。
 
