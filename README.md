@@ -39,12 +39,12 @@
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/surf-vpn">Surfshark</a></td>
-      <td style="font-size: 14px;">稳定</td>
+      <td style="font-size: 14px;">一般</td>
       <td style="font-size: 14px;">比较安全</td>
       <td style="font-size: 14px;">65个国家3200台</td>
       <td style="font-size: 14px;">2年套餐：$2.49/月</td>
-      <td style="font-size: 14px;">不限制设备数，性价比高</td>
-      <td style="font-size: 14px; color: red;">9.0/10</td>
+      <td style="font-size: 14px;">不限制设备数</td>
+      <td style="font-size: 14px; color: red;">8.0/10</td>
     </tr>
     <tr>
       <td style="background-color: lightgrey; font-size: 16px;"><a href="https://bit.ly/rd-vpn">NordVPN</a></td>
@@ -52,8 +52,8 @@
       <td style="font-size: 14px;">非常安全</td>
       <td style="font-size: 14px;">59个国家5400台</td>
       <td style="font-size: 14px;">2年套餐：$3.71/月</td>
-      <td style="font-size: 14px;">功能强大，适合老司机</td>
-      <td style="font-size: 14px; color: red;">8.0/10</td>
+      <td style="font-size: 14px;">功能强大，但仅适合老司机</td>
+      <td style="font-size: 14px; color: red;">6.0/10</td>
     </tr>
   </tbody>
 </table>
