@@ -177,11 +177,11 @@ ExpressVPN提供24/7的客户支持服务，用户可以通过在线聊天或邮
 
 #### 第一步：访问ExpressVPN官网并点击“Get ExpressVPN”。
 
+* ExpressVPN唯一官网地址：<a href="https://bit.ly/eps-vpn">www.expressvpn.com</a>
+
 由于ExpressVPN在全球拥有非常高的品牌知名度，市面上出现了很多假冒的ExpressVPN官网和APP客户端。所以为了安全起见，我们建议你直接通过我们提供的链接进入ExpressVPN官网。
 
 ![中国用户购买下载安装ExpressVPN的第一步：访问ExpressVPN官网并点击“Get ExpressVPN”](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-1.jpg)
-
-* ExpressVPN唯一官网网站：<a href="https://bit.ly/eps-vpn">www.expressvpn.com</a>
 
 注意：由于GFW封锁了ExpressVPN的官网，中国用户无法直接访问ExpressVPN网站。所以在前几年，ExpressVPN为中国用户提供了一些无需翻墙即可访问的镜像网站。然而，因为其品牌知名度过高，市面上出现了大量假冒的ExpressVPN镜像站，严重影响了品牌声誉。出于安全考虑，ExpressVPN后来关闭了所有镜像站。因此，现今中国大陆用户若想购买ExpressVPN，必须先使用临时翻墙工具进入ExpressVPN官网进行购买。不过，如果你能看到这篇文章，说明你目前已经有一个临时可用的翻墙工具了。
 
