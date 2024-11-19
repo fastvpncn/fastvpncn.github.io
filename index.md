@@ -209,9 +209,9 @@ PureVPN的应用程序界面简洁友好，支持Windows、MacOS、iOS、Android
 
 **第二步：选择付费套餐**
 
-ExpressVPN提供多种付费套餐，其中12个月的套餐性价比最高。通过点击上方链接购买，还能享受最新的优惠折扣，即免费赠送3个月，价格低至6.67美元/月。
+ExpressVPN提供多种付费套餐，其中2年套餐性价比最高。通过点击上方链接购买，还能享受最新的优惠折扣，即免费赠送6个月，价格低至4.99美元/月。
 
-![翻墙和科学上网步骤二：选择付费套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-2.jpg)
+![翻墙和科学上网步骤二：选择付费套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/%E5%A6%82%E4%BD%95%E7%BF%BB%E5%A2%99-2-1.jpg)
 
 **第三步：输入电子邮箱**
 
