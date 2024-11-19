@@ -186,7 +186,7 @@ ExpressVPN提供24/7的客户支持服务，用户可以通过在线聊天或邮
 
 ExpressVPN提供三种付费套餐，分别为1个月套餐、1年套餐和2年套餐。其中，1个月套餐的价格为12.95美元，1年套餐的价格为每月6.25美元，2年套餐的价格为每月4.99美元。此外，通过我们提供的专属优惠链接购买2年套餐，还可额外获赠6个月，享受更加超值的优惠。
 
-![中国用户购买下载安装ExpressVPN的第二步：选择你想要购买的套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-2.jpg)
+![中国用户购买下载安装ExpressVPN的第二步：选择你想要购买的套餐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-2-1.jpg)
 
 注意：无论你选择哪种套餐，ExpressVPN提供的服务都是一致的。你都可以访问其遍布全球105个国家的3000多个服务器，享受无限流量和带宽，并获得7x24小时在线客服支持以及30天退款保证。
 
