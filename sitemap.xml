@@ -5,34 +5,41 @@
 		<loc>https://github.com/fastvpncn/fastvpncn.github.io</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2024-11-19</lastmod>
+		<lastmod>2024-11-21</lastmod>
 	</url>
 
 	<url>
 		<loc>https://github.com/fastvpncn/pcvpn.github.io</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2024-11-19</lastmod>
+		<lastmod>2024-11-21</lastmod>
 	</url>
 
+	<url>
+		<loc>https://github.com/fastvpncn/free-vpn</loc>
+		<priority>0.8</priority>
+		<changefreq>daily</changefreq>
+		<lastmod>2024-11-21</lastmod>
+	</url>
+	
 	<url>
 		<loc>https://github.com/fastvpncn/expressvpn-review</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2024-11-19</lastmod>
+		<lastmod>2024-11-21</lastmod>
 	</url>
 
 	<url>
 		<loc>https://github.com/fastvpncn/letsvpn-review</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2024-11-19</lastmod>
+		<lastmod>2024-11-21</lastmod>
 	</url>
 
 		<url>
 		<loc>https://github.com/fastvpncn/wang-vpn</loc>
 		<priority>0.8</priority>
 		<changefreq>daily</changefreq>
-		<lastmod>2024-11-19</lastmod>
+		<lastmod>2024-11-21</lastmod>
 	</url>
 </urlset>
