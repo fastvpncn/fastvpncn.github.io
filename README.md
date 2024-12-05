@@ -1,6 +1,6 @@
 # <p align="center">中国VPN推荐：2024年最好用的VPN排行</p>
 
-<p align="center">最近更新于：2024年11月19日</p>
+<p align="center">最近更新于：2024年12月5日</p>
 
 ![中国VPN推荐：最好用的VPN排行](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/main/image/VPN%E6%8E%A8%E8%8D%90%E5%92%8CVPN%E6%8E%92%E8%A1%8C.jpg)
 
@@ -154,7 +154,7 @@ ExpressVPN采用军用级别的AES-256加密算法，结合OpenVPN、IKEv2和Lig
 
 * 简便易用的客户端
 
-ExpressVPN的客户端设计简洁直观，支持多种操作系统和设备，包括Windows、MacOS、iOS、Android和Linux等。无论是VPN新手还是有经验的用户，都能轻松上手。此外，ExpressVPN允许同时连接多达八台设备，非常适合家庭或小型团队使用。用户可以在不同设备上无缝切换，享受一致的VPN体验。
+ExpressVPN的客户端设计简洁直观，支持多种操作系统和设备，包括Windows、MacOS、iOS、Android和Linux等。无论是VPN新手还是有经验的用户，都能轻松上手。此外，ExpressVPN允许同时连接多达八台设备，非常适合家庭或小型团队使用。用户可以在不同设备上无缝切换，享受一致的VPN体验。注意：中国大陆的iOS用户可以通过“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”直接购买一个现成的美区AppleID，随后就可以使用该AppleID下载ExpressVPN的iOS客户端！
 
 * 卓越的客户支持
 
