@@ -218,11 +218,11 @@ ExpressVPN提供多种付款方式，包括信用卡、PayPal、银联卡和比�
 
 ![中国用户购买下载安装ExpressVPN的第六步：下载并安装ExpressVPN客户端](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/ExpressVPN-APP-Download-6.jpg)
 
-* Windows APP：www.expressvpn.com/vpn-download/vpn-windows
-* ManOS APP：www.expressvpn.com/vpn-download/vpn-mac
-* Android APP：www.expressvpn.com/vpn-download/vpn-android
-* iOS APP：www.expressvpn.com/vpn-download/vpn-ios
-* Linux APP：www.expressvpn.com/vpn-download/vpn-linux
+* Windows APP：Expressvpn.com/vpn-download/vpn-windows
+* ManOS APP：Expressvpn.com/vpn-download/vpn-mac
+* Android APP：Expressvpn.com/vpn-download/vpn-android
+* iOS APP：Expressvpn.com/vpn-download/vpn-ios
+* Linux APP：Expressvpn.com/vpn-download/vpn-linux
 
 注意：正如前面提到的，市面上存在许多假冒的ExpressVPN客户端。为了确保你的设备和数据安全，建议大家不要通过第三方平台下载ExpressVPN客户端。请务必通过ExpressVPN的官方网站或账户管理页面进行下载，以避免潜在的风险。此外，中国大陆的iOS用户可以通过“<a href="https://www.naifeistation.com?invite=3wLPME">星际放映厅</a>”直接购买一个现成的美区AppleID，随后就可以使用该AppleID下载ExpressVPN的iOS客户端！
 
