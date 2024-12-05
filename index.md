@@ -1,4 +1,4 @@
-# 科学上网教程：2024年最好用的翻墙软件推荐（更新于11月19日）
+# 科学上网教程：2024年最好用的翻墙软件推荐（更新于12月5日）
 
 ![科学上网教程：最好用的翻墙软件推荐](https://raw.githubusercontent.com/fastvpncn/fastvpncn.github.io/refs/heads/main/image/Ke-xue-shang-wang.jpg)
 
